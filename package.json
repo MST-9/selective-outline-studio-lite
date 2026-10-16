@@ -1,0 +1,20 @@
+{
+  "name": "selective-outline-studio-lite",
+  "displayName": "Selective Outline Studio (Lite)",
+  "description": "Selective outline (sel-out) for pixel art in Aseprite: outline colours picked from your own palette, with light direction. Plus flat and inner outlines.",
+  "version": "1.0.0",
+  "author": {
+    "name": "MST-9 Tools"
+  },
+  "license": "MIT",
+  "categories": [
+    "Scripts"
+  ],
+  "contributes": {
+    "scripts": [
+      {
+        "path": "./plugin.lua"
+      }
+    ]
+  }
+}
